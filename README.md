@@ -25,3 +25,4 @@ My contribution is bringing these existing projects together on 5.1.0 and updati
 Compilation and focused checks have passed. Full multiplayer and progression validation remain pending, and some Archipelago locations and options are still unsupported. Please read the included compatibility notes before generating a session.
 
 This is an unofficial community build. No Nintendo ROM or extracted game data is included; players must provide their own supported game copy.
+<img width="1672" height="941" alt="Majoras_Mask_Archipelago_5 1 0_Thumbnail_Under_1MB" src="https://github.com/user-attachments/assets/dca3a810-bbab-4aaa-9553-26ffaea80659" />
